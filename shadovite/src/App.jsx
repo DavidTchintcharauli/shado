@@ -11,6 +11,9 @@ function App() {
       <div>
         hello from div
       </div>
+      <div>
+        hello from another div
+      </div>
     </>
   )
 }
